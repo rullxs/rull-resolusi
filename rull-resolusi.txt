@@ -2,3 +2,4 @@ RULL RESOLUSI
 - Konsisten belajar Programming
 - Konsisten belajar Bahasa Inggris
 - Fokus di Front-end Web Development
+- Membuat project portfolio

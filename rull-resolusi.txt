@@ -3,6 +3,6 @@ RULL RESOLUSI
 - Konsisten belajar Bahasa Inggris 
 - Fokus di Front-end Web Development
   ^ javascript
-  ^ framework react
-  ^ framework vue
+   ^ framework react
+   ^ framework vue
 - Membuat Website portfolio

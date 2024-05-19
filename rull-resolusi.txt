@@ -4,4 +4,5 @@ RULL RESOLUSI
 - Fokus di Front-end Web Development
   ^ javascript
   ^ framework react
+  ^ framework vue
 - Membuat Website portfolio

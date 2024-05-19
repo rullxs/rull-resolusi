@@ -5,4 +5,5 @@ RULL RESOLUSI
   ^ javascript
    ^ framework react
    ^ framework vue
+  ^ css 
 - Membuat Website portfolio

@@ -7,4 +7,5 @@ RULL RESOLUSI
    ^ framework vue
   ^ css 
    ^ bootstrap
+   ^ tailwind
 - Membuat Website portfolio

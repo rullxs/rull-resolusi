@@ -6,4 +6,5 @@ RULL RESOLUSI
    ^ framework react
    ^ framework vue
   ^ css 
+   ^ bootstrap
 - Membuat Website portfolio

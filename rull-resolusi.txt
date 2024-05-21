@@ -9,4 +9,5 @@ RULL RESOLUSI
    ^ bootstrap
    ^ tailwind
    ^ sass
+  ^ github
 - Membuat Website portfolio

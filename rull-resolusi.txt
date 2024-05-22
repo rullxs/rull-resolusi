@@ -10,4 +10,4 @@ RULL RESOLUSI
    ^ tailwind
    ^ sass
   ^ github
-- Membuat Website portfolio
+- Membuat project portfolio

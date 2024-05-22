@@ -11,4 +11,4 @@ RULL RESOLUSI
    ^ sass
   ^ github
   ^ git
-- Membuat Website portfolio
+- Membuat project portfolio
